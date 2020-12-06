@@ -13,3 +13,8 @@
 
     - The script also initializes a git repository
     - It also creates 2 branches a test branch and a dev branch
+
+## How to use
+
+    clone this repository then
+    ./ script project-name
